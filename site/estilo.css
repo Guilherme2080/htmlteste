@@ -125,34 +125,96 @@ header {
     margin: auto;
     margin-bottom: 50px;
 }
+
+
 .beneficios h4, .requisitados h4 ,.agendamentos h4, .consultas h4{
    margin-left: 30px;
-   font-size: 18px;
+   font-size: 17px;
+   float: left;
+   width: 100%;
+   font-weight: normal;
+}
+
+.requisitados h5{
+    font-weight: normal;
+    float: right;
+    margin-right: 20px;
+    margin-top: -20px;
+    font-size: 17px;
 }
 
 .b_qd{
     float: left;
     width: 25%;
     height: 90%;
-    background-color: bisque;
+    /* background-color: bisque; */
 }
 
 .b_circle{
     width: 65%;
     float: left;
-    margin-top: 45px;
+    margin-top: 50px;
     margin-left: 25px;
     height: 35%;
     border-radius: 50%;
-    background-color: red;
+    background-color: #5278E3;
 }
 
 .b_circle p{
-   
-    background-color: #5278E3;    
     width: 100%;
     float: left;
     text-align: center;   
-    margin-top: 145px;
+    margin-top: 44px;
     height: 50px;
+}
+
+.b_circle img{
+    margin-top: 40px;
+    margin-left: 35px;
+    width: 50%;
+    float: left;
+    background-color: rgb(228, 105, 105);
+}
+
+
+.p_1{
+    
+    width: 100%;    
+    height: 200pxx;
+    float: left;    
+    
+}
+.p_1 img{    
+    width: 100%;    
+    height: 200px;
+   
+    
+}
+
+.ginecologista{
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    margin-left: 20px;
+    float: left;
+    background-color: #fff;
+    width: 30%;
+    height: 200px;
+}
+.ginecologista p{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.ginecologista aside{    
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.ginecologista h6{
+    font-weight: normal;
+    width: 100px;
+    font-size: 17px;
+    height: 25px;
+    /* background-color: aquamarine; */
+    line-height: 25px;
+    margin-right: 105px;
+    float:right ;
 }

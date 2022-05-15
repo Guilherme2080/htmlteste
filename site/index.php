@@ -59,51 +59,86 @@
     </div>
 
     <div class="beneficios">
+
+
+
         <h4>Beneficios</h4>
+
         <div class="b_qd">
             <div class="b_circle">
+                <img src="imagens/aresidencial.jpg">
                 <p>Assistencia residencial</p>
             </div>
 
             <div class="b_circle">
-            <p>cupons</p>
+                <img src="imagens/cupons.jpg">
+
+                <p><br>cupons</p>
+            </div>
+        </div>
+
+        <div class="b_qd">
+
+            <div class="b_circle">
+                <img src="imagens/coracao.jpg">
+                <p>Seguro de Vida</p>
+            </div>
+
+            <div class="b_circle">
+                <img src="imagens/restaurante.jpg">
+                <p><br>Restaurantes</p>
             </div>
         </div>
 
         <div class="b_qd">
             <div class="b_circle">
-            <p>Seguro de Vida</p>
+                <img src="imagens/cartao.jpg">
+                <p><br>Cartao internacional</p>
             </div>
 
             <div class="b_circle">
-            <p>Restaurantes</p>
-            </div>
-        </div>
-
-        <div class="b_qd">
-            <div class="b_circle">
-            <p>Cartao internacional</p>
-            </div>
-
-            <div class="b_circle">
-            <p>Conta digital</p>
+                <img src="imagens/celular.jpg">
+                <p>Conta digital</p>
 
             </div>
         </div>
 
         <div class="b_qd">
             <div class="b_circle">
-            <p>Sorteio de premios</p>
+                <img src="imagens/sorteios.jpg">
+                <p>Sorteio de premios</p>
             </div>
 
             <div class="b_circle">
-            <p>Auxilio funeral</p>
+                <img src="imagens/funeral.jpg">
+                <p>Auxilio funeral</p>
             </div>
         </div>
     </div>
 
     <div class="requisitados">
         <h4>Os mais requisitados</h4>
+        <h5>Ver todos</h5>
+
+        <div class="p_1">
+             <img src="imagens/parte.jpg">
+        </div>
+        <div class="ginecologista">
+            <p>Ginecologista</p>
+            <aside><img width="10%" src="imagens/estrela.png"> <h6>5</h6></aside>
+            
+        </div>
+        <div class="ginecologista">
+        <p>Ginecologista</p>
+        <aside><img width="10%" src="imagens/estrela.png"> <h6>5</h6></aside>
+
+        </div>
+        <div class="ginecologista">
+        <p>Ginecologista</p>
+            <aside><img width="10%" src="imagens/estrela.png"> <h6>5</h6></aside>
+
+        </div>
+       
     </div>
 
     <div class="agendamentos">
@@ -114,9 +149,9 @@
     <div class="consultas">
         <h4>Consultas e exames realizados</h4>
 
+
+
     </div>
-
-
     <footer>
 
     </footer>
