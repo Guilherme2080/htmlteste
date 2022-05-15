@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+header {
+    margin: auto;
+    width: 860px;
+    height: 200px;
+    background-color: #5278E3;
+}
+
+.status {
+    height: 50px;
+
+}
+
+.h_horario {
+    margin-top: 15px;
+    float: left;
+    margin-left: 10%;
+    width: 40%;
+}
+
+.h_horario p {
+    color: #fff;
+
+}
+
+.h_bateria {
+    float: left;
+    margin-left: 10%;
+    width: 40%;
+}
+
+.h_bateria img {
+    margin-top: 15px;
+    margin-left: 200px;
+}
+
+.loc_title {
+    height: 73px;
+
+}
+
+.loc_title p {
+
+    width: 40%;
+    float: left;
+    font-size: 45px;
+    color: #fff;
+    margin-left: 10%;
+}
+
+.loc_title article {
+
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 265px;
+    width: 100px;
+    color: #fff;
+    float: left;
+}
+
+.loc_title img {
+    float: right;
+    width: 15px;
+}
+
+.c_opcoes {
+    margin: -70px auto;
+    width: 860px;
+    height: 300px;
+}
+
+
+.circulos {
+    border-radius: 50%;
+    margin-left: 90px;
+    float: left;
+    height: 160px;
+    width: 20%;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+
+}
+
+.circulos img {
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 50%;
+}
+
+.circulos p {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.painel {
+
+    margin: auto;
+    width: 840px;
+    height: 350px;
+}
+
+.painel img {
+    border-radius: 15px;
+    width: 700px;
+
+}
+
+.p_texto p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 300px;
+    margin-top: -200px;
+}
+
+.beneficios, .requisitados ,.agendamentos, .consultas{
+    width: 860px;
+    height: 450px;
+    background-color: rgb(180, 173, 173);
+    margin: auto;
+    margin-bottom: 50px;
+}
+.beneficios h4, .requisitados h4 ,.agendamentos h4, .consultas h4{
+   margin-left: 30px;
+   font-size: 18px;
+}
+
+.b_qd{
+    float: left;
+    width: 25%;
+    height: 90%;
+    background-color: bisque;
+}
+
+.b_circle{
+    width: 65%;
+    float: left;
+    margin-top: 45px;
+    margin-left: 25px;
+    height: 35%;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.b_circle p{
+   
+    background-color: #5278E3;    
+    width: 100%;
+    float: left;
+    text-align: center;   
+    margin-top: 145px;
+    height: 50px;
+}
