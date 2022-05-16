@@ -121,41 +121,80 @@
         <h5>Ver todos</h5>
 
         <div class="p_1">
-             <img src="imagens/parte.jpg">
+            <img src="imagens/parte.jpg">
         </div>
         <div class="ginecologista">
             <p>Ginecologista</p>
-            <aside><img width="10%" src="imagens/estrela.png"> <h6>5</h6></aside>
-            
-        </div>
-        <div class="ginecologista">
-        <p>Ginecologista</p>
-        <aside><img width="10%" src="imagens/estrela.png"> <h6>5</h6></aside>
+            <aside><img width="10%" src="imagens/estrela.png">
+                <h6>5</h6>
+            </aside>
 
         </div>
         <div class="ginecologista">
-        <p>Ginecologista</p>
-            <aside><img width="10%" src="imagens/estrela.png"> <h6>5</h6></aside>
+            <p>Ginecologista</p>
+            <aside><img width="10%" src="imagens/estrela.png">
+                <h6>5</h6>
+            </aside>
 
         </div>
-       
+        <div class="ginecologista">
+            <p>Ginecologista</p>
+            <aside><img width="10%" src="imagens/estrela.png">
+                <h6>5</h6>
+            </aside>
+
+        </div>
+
     </div>
 
     <div class="agendamentos">
         <h4>Ultimos agendamentos</h4>
+        <div class="qd_agendamentos">
 
+            <div class="qd_int_ag">
+                <article>
+                    Dr. Patricia Neves<br>
+                     Ginecologista <br>     03/09/2022 as 18:30
+                </article>
+                <aside><img class="ponto" src="imagens/ponto.png">online <img class="mulher" src="imagens/mulher.jpg"></aside>
+            </div>
+
+            <div class="qd_int_ag">
+            <article>
+                    Dr. Patricia Neves<br>
+                     Ginecologista <br>     03/09/2022 as 18:30
+                </article>
+                <aside><img class="ponto" src="imagens/ponto.png">online <img class="mulher" src="imagens/mulher.jpg"></aside>
+            </div>
+            <div class="qd_int_ag">
+            <article>
+                    Dr. Patricia Neves<br>
+                     Ginecologista <br>     03/09/2022 as 18:30
+                </article>
+                <aside><img class="ponto" src="imagens/ponto.png">online <img class="mulher" src="imagens/mulher.jpg"></aside>
+            </div>
+        </div>
     </div>
 
     <div class="consultas">
         <h4>Consultas e exames realizados</h4>
+            <div class="qd_dt">
+               <img src="imagens/carlos.jpg">
+               <article>Dr. Carlos da Silva</article>
+               <p>Psicologo - 0.8 km de distancia</p>
+               <img class="aval" src="imagens/avaliacao.jpg">
+            </div>
 
+            <div  class="qd_dt">
+            <img src="imagens/carlos.jpg">
+               <article>Dr. Carlos da Silva</article>
+               <p>Psicologo - 0.8 km de distancia</p>
+               <img class="aval" src="imagens/avaliacao.jpg">
+            </div>
 
 
     </div>
-    <footer>
-
-    </footer>
-
+    
 </body>
 
 </html>

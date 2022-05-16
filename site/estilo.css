@@ -118,10 +118,24 @@ header {
     margin-top: -200px;
 }
 
-.beneficios, .requisitados ,.agendamentos, .consultas{
+.beneficios, .requisitados{
     width: 860px;
     height: 450px;
-    background-color: rgb(180, 173, 173);
+   
+    margin: auto;
+    margin-bottom: 50px;
+}
+.consultas{
+    width: 860px;
+    height: 350px;
+   
+    margin: auto;
+    margin-bottom: 50px; 
+}
+.agendamentos{
+    width: 860px;
+    height: 350px;
+   
     margin: auto;
     margin-bottom: 50px;
 }
@@ -133,6 +147,7 @@ header {
    float: left;
    width: 100%;
    font-weight: normal;
+   color:#223a7a;
 }
 
 .requisitados h5{
@@ -141,6 +156,7 @@ header {
     margin-right: 20px;
     margin-top: -20px;
     font-size: 17px;
+    color:#3b57a5;
 }
 
 .b_qd{
@@ -192,6 +208,7 @@ header {
 }
 
 .ginecologista{
+    border-radius: 10px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     margin-left: 20px;
     float: left;
@@ -217,4 +234,83 @@ header {
     line-height: 25px;
     margin-right: 105px;
     float:right ;
+}
+
+.qd_agendamentos{
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    background-color: #5075DD;
+    height: 250px;
+}
+
+.qd_int_ag{
+    margin-top: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 70px;
+    margin-left: 30px;
+    background-color: #fff;
+    height: 200px;
+    float: left;
+    width: 28%;
+}
+
+.qd_int_ag aside{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.qd_int_ag article{
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.ponto{
+    width: 15px;
+}
+
+.mulher{
+    width: 45px;
+}
+
+.qd_dt{
+    border-radius: 10px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 10px;
+    width: 80%;
+    height: 100px;
+    background-color: #fff;
+}
+
+.qd_dt img{
+
+    float: left;
+    margin-left: 30px;
+    width: 80px;
+}
+
+.qd_dt article{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    height: 40px;
+    width: 60%;
+    float: left;
+}
+.qd_dt p{
+    margin-left: 20px;
+    font-size: 15px;
+    
+    height: 40px;
+    width: 60%;
+    float: left;
+}
+
+.aval{
+    margin-top: -50px;
+    float: left;
 }
